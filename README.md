@@ -7,9 +7,9 @@ Aplikasi chat client iOS berbasis SwiftUI untuk tugas Jaringan Komputer. Aplikas
 | Keterangan | Data |
 | --- | --- |
 | Nama | Rovino Ramadhani |
-| NIM | Silakan isi NIM |
-| Kelas | Silakan isi kelas |
-| Mata Kuliah | Jaringan Komputer |
+| NIM | 103072400031 |
+| Kelas | IF 04-01 |
+| Mata Kuliah | Jaringan Komputer - Telkom University Surabaya |
 
 ## Fitur
 

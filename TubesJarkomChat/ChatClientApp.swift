@@ -1,13 +1,7 @@
-//
-//  TubesJarkomChatApp.swift
-//  TubesJarkomChat
-//
-//  Created by Rovino Ramadhani on 01/06/26.
-//
-
 import SwiftUI
 
-struct TubesJarkomChatApp: App {
+@main
+struct ChatClientApp: App {
     @StateObject private var client = ClientService()
 
     var body: some Scene {
